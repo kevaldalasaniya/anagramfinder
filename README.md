@@ -1,6 +1,8 @@
 # anagramfinder
 This Program Reads File and Maps All Anagram Words in Spring Boot
 
+Flow Starts from Class : AnagramFinderDriver , this is entry point for code
+
 ## a.How To Run Code
 
 1. Check out Git Repo
