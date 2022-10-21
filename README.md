@@ -18,7 +18,7 @@ This Program Reads File and Maps All Anagram Words in Spring Boot
 
 There for Total Time Complexity is : O(n  * l log(l) )
 
-## 2. Space Complexity
+ 2. Space Complexity
 - As we are storing result in HashMap so for each entry of set of Anagrams it will O(n)
 - Also we are creating temporary arrays to sort strings so space complexity for that is O(k)
 
